@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dee217652013d0ad9d06cf7dbcb1192a",
+    "revision": "6a84d6e2131b96a42d1b2e8563419b7e",
     "url": "/index.html"
   },
   {
-    "revision": "1059f1b3dd966f221eff",
+    "revision": "214a8f099d741bf01ef5",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "131836f6f2a77624967f",
+    "revision": "9ce29bd47388f832bded",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "b3399e86b28147f57885",
-    "url": "/static/css/main.1a6005f5.chunk.css"
+    "revision": "346c28afcfd50f593cb9",
+    "url": "/static/css/main.4782da96.chunk.css"
   },
   {
     "revision": "6e0f676fd4a16d6e480a",
@@ -24,24 +24,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.85fc1081.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1059f1b3dd966f221eff",
-    "url": "/static/js/3.ad8a2187.chunk.js"
+    "revision": "214a8f099d741bf01ef5",
+    "url": "/static/js/3.7429559a.chunk.js"
   },
   {
-    "revision": "131836f6f2a77624967f",
-    "url": "/static/js/4.5fb60f04.chunk.js"
+    "revision": "9ce29bd47388f832bded",
+    "url": "/static/js/4.07c5a284.chunk.js"
   },
   {
-    "revision": "b3399e86b28147f57885",
-    "url": "/static/js/main.0b06cf60.chunk.js"
+    "revision": "346c28afcfd50f593cb9",
+    "url": "/static/js/main.35f239d5.chunk.js"
   },
   {
-    "revision": "a7d4c9545c7c74457e52",
-    "url": "/static/js/runtime-main.0c897d86.js"
+    "revision": "370b650cb90fce500a07",
+    "url": "/static/js/runtime-main.844ff8d0.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "0ec2299ef5050ad2851170962f1de0e5",
+    "url": "/static/media/Analytics_amp_Data_Science.0ec2299e.gif"
+  },
+  {
+    "revision": "7b81c19c7f38069c0b085afbf31bdf8e",
+    "url": "/static/media/Digital-Marketing-Write-For-Us.7b81c19c.gif"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
