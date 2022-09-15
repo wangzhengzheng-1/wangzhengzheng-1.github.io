@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.4782da96.chunk.css",
-    "main.js": "/static/js/main.35f239d5.chunk.js",
-    "main.js.map": "/static/js/main.35f239d5.chunk.js.map",
+    "main.css": "/static/css/main.30821955.chunk.css",
+    "main.js": "/static/js/main.8da24de8.chunk.js",
+    "main.js.map": "/static/js/main.8da24de8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.844ff8d0.js",
     "runtime-main.js.map": "/static/js/runtime-main.844ff8d0.js.map",
     "static/js/2.85fc1081.chunk.js": "/static/js/2.85fc1081.chunk.js",
@@ -14,15 +14,16 @@
     "static/js/4.07c5a284.chunk.js": "/static/js/4.07c5a284.chunk.js",
     "static/js/4.07c5a284.chunk.js.map": "/static/js/4.07c5a284.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9dc05bd98ab3dff435df8500581abd2d.js": "/precache-manifest.9dc05bd98ab3dff435df8500581abd2d.js",
+    "precache-manifest.693462b56b12164a13bc3aaa377e5e5c.js": "/precache-manifest.693462b56b12164a13bc3aaa377e5e5c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
-    "static/css/main.4782da96.chunk.css.map": "/static/css/main.4782da96.chunk.css.map",
+    "static/css/main.30821955.chunk.css.map": "/static/css/main.30821955.chunk.css.map",
     "static/js/2.85fc1081.chunk.js.LICENSE.txt": "/static/js/2.85fc1081.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Analytics_amp_Data_Science.gif": "/static/media/Analytics_amp_Data_Science.0ec2299e.gif",
     "static/media/Digital-Marketing-Write-For-Us.gif": "/static/media/Digital-Marketing-Write-For-Us.7b81c19c.gif",
+    "static/media/WeChat_Image_20220915002032.png": "/static/media/WeChat_Image_20220915002032.c22d6a74.png",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.c59720d6.png",
     "static/media/codeInLogo.webp": "/static/media/codeInLogo.47a7a717.webp",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
@@ -32,7 +33,6 @@
     "static/media/nextuLogo.webp": "/static/media/nextuLogo.829ad0a1.webp",
     "static/media/pwaLogo.webp": "/static/media/pwaLogo.ee62cb58.webp",
     "static/media/quoraLogo.png": "/static/media/quoraLogo.4b2938b9.png",
-    "static/media/saayaHealthLogo.webp": "/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/stanfordLogo.png": "/static/media/stanfordLogo.3b758ef5.png",
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.844ff8d0.js",
     "static/js/2.85fc1081.chunk.js",
-    "static/css/main.4782da96.chunk.css",
-    "static/js/main.35f239d5.chunk.js"
+    "static/css/main.30821955.chunk.css",
+    "static/js/main.8da24de8.chunk.js"
   ]
 }

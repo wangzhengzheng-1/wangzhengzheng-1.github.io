@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a84d6e2131b96a42d1b2e8563419b7e",
+    "revision": "3a281e8651b9468bd3b35bb0b9f0ccbf",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "346c28afcfd50f593cb9",
-    "url": "/static/css/main.4782da96.chunk.css"
+    "revision": "a53eed55ff1a3da8064e",
+    "url": "/static/css/main.30821955.chunk.css"
   },
   {
     "revision": "6e0f676fd4a16d6e480a",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.07c5a284.chunk.js"
   },
   {
-    "revision": "346c28afcfd50f593cb9",
-    "url": "/static/js/main.35f239d5.chunk.js"
+    "revision": "a53eed55ff1a3da8064e",
+    "url": "/static/js/main.8da24de8.chunk.js"
   },
   {
     "revision": "370b650cb90fce500a07",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "c22d6a74e8b4a99ad5975e7b3e76fcd4",
+    "url": "/static/media/WeChat_Image_20220915002032.c22d6a74.png"
   },
   {
     "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
@@ -90,10 +94,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
     "url": "/static/media/quoraLogo.4b2938b9.png"
-  },
-  {
-    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
-    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
