@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3373466fdd2b8057ace711ef402e5b53",
+    "revision": "31f0c60f78b66ec28ad78075fec2a6e1",
     "url": "/index.html"
   },
   {
-    "revision": "eca59752c515a2a8d78e",
+    "revision": "d31239177623b7c08d26",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "c174d3e9e9eb99951df0",
+    "revision": "b3eb18c9656059332a91",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "a7ee0a30b7295c1a6200",
+    "revision": "0b2379c44fd6c8f4e0af",
     "url": "/static/css/main.dad6ea7f.chunk.css"
   },
   {
-    "revision": "7748b0d4623b3ba99294",
-    "url": "/static/js/2.4c647c53.chunk.js"
+    "revision": "f5da0434cf0fe3234fa8",
+    "url": "/static/js/2.bb584301.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.4c647c53.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.bb584301.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eca59752c515a2a8d78e",
-    "url": "/static/js/3.64d0c669.chunk.js"
+    "revision": "d31239177623b7c08d26",
+    "url": "/static/js/3.3be64940.chunk.js"
   },
   {
-    "revision": "c174d3e9e9eb99951df0",
-    "url": "/static/js/4.52bf86f4.chunk.js"
+    "revision": "b3eb18c9656059332a91",
+    "url": "/static/js/4.2210ada9.chunk.js"
   },
   {
-    "revision": "a7ee0a30b7295c1a6200",
-    "url": "/static/js/main.6622ccbf.chunk.js"
+    "revision": "0b2379c44fd6c8f4e0af",
+    "url": "/static/js/main.dca0dd9e.chunk.js"
   },
   {
-    "revision": "c8c4134ee5e57ee168f0",
-    "url": "/static/js/runtime-main.7a9c2ffb.js"
+    "revision": "278f1d0121c280f2646d",
+    "url": "/static/js/runtime-main.4288504e.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -66,6 +66,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6da6a7e59e91177cab63dbf4f767057b",
     "url": "/static/media/New York City Taxi.6da6a7e5.png"
+  },
+  {
+    "revision": "ec0a3b1f7adf7fbadc8ba743e7f4afc7",
+    "url": "/static/media/Supermarket analysis.ec0a3b1f.png"
   },
   {
     "revision": "d002a3ba273b4364ac8886f1e4cfeade",
