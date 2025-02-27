@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6cd384a934bd2258fc17345d70ed1d8f",
+    "revision": "4c2a6ca586e669f880c07cedeaf20349",
     "url": "/index.html"
   },
   {
-    "revision": "d31239177623b7c08d26",
+    "revision": "59d575f79eea7ea30513",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "b3eb18c9656059332a91",
+    "revision": "a3c78d91d088aee56156",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "0b2379c44fd6c8f4e0af",
-    "url": "/static/css/main.dad6ea7f.chunk.css"
+    "revision": "57e69742ffbcda9693e0",
+    "url": "/static/css/main.5a070b5d.chunk.css"
   },
   {
-    "revision": "f5da0434cf0fe3234fa8",
-    "url": "/static/js/2.bb584301.chunk.js"
+    "revision": "ddfa7fd5dcc971cf61c8",
+    "url": "/static/js/2.e41c96a3.chunk.js"
   },
   {
-    "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.bb584301.chunk.js.LICENSE.txt"
+    "revision": "408f8ade359af8695a328ed937291fdf",
+    "url": "/static/js/2.e41c96a3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d31239177623b7c08d26",
-    "url": "/static/js/3.3be64940.chunk.js"
+    "revision": "59d575f79eea7ea30513",
+    "url": "/static/js/3.a229a632.chunk.js"
   },
   {
-    "revision": "b3eb18c9656059332a91",
-    "url": "/static/js/4.2210ada9.chunk.js"
+    "revision": "a3c78d91d088aee56156",
+    "url": "/static/js/4.af31f576.chunk.js"
   },
   {
-    "revision": "0b2379c44fd6c8f4e0af",
-    "url": "/static/js/main.dca0dd9e.chunk.js"
+    "revision": "57e69742ffbcda9693e0",
+    "url": "/static/js/main.d5b36290.chunk.js"
   },
   {
-    "revision": "278f1d0121c280f2646d",
-    "url": "/static/js/runtime-main.4288504e.js"
+    "revision": "7eae961334fb4fd30f04",
+    "url": "/static/js/runtime-main.903722d8.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -84,6 +84,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/airbnbLogo.c59720d6.png"
   },
   {
+    "revision": "98fe61ba0ad608048e7bddc64363dd20",
+    "url": "/static/media/awesome-chocolate-sale-analysis.98fe61ba.png"
+  },
+  {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
     "url": "/static/media/codeInLogo.47a7a717.webp"
   },
@@ -94,6 +98,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
     "url": "/static/media/facebookLogo.8ddf76a1.png"
+  },
+  {
+    "revision": "39700b3b7a53b5f37b6c0055cff35711",
+    "url": "/static/media/global-asset-management.39700b3b.png"
   },
   {
     "revision": "e79c639294c805688be731921368c8f8",
