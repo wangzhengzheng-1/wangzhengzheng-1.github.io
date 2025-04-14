@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4c2a6ca586e669f880c07cedeaf20349",
+    "revision": "61bdfc5be0bbb51e1db4f3c79d30428f",
     "url": "/index.html"
   },
   {
-    "revision": "59d575f79eea7ea30513",
+    "revision": "aab707fe26abd6cde5d2",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "a3c78d91d088aee56156",
+    "revision": "21484ef010f55a18faa7",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "57e69742ffbcda9693e0",
+    "revision": "63492b514a3a5cd27697",
     "url": "/static/css/main.5a070b5d.chunk.css"
   },
   {
-    "revision": "ddfa7fd5dcc971cf61c8",
-    "url": "/static/js/2.e41c96a3.chunk.js"
+    "revision": "90faa8a387ebc784b9c3",
+    "url": "/static/js/2.19e9d0fd.chunk.js"
   },
   {
     "revision": "408f8ade359af8695a328ed937291fdf",
-    "url": "/static/js/2.e41c96a3.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.19e9d0fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59d575f79eea7ea30513",
-    "url": "/static/js/3.a229a632.chunk.js"
+    "revision": "aab707fe26abd6cde5d2",
+    "url": "/static/js/3.3ab629bb.chunk.js"
   },
   {
-    "revision": "a3c78d91d088aee56156",
-    "url": "/static/js/4.af31f576.chunk.js"
+    "revision": "21484ef010f55a18faa7",
+    "url": "/static/js/4.326a9f82.chunk.js"
   },
   {
-    "revision": "57e69742ffbcda9693e0",
-    "url": "/static/js/main.d5b36290.chunk.js"
+    "revision": "63492b514a3a5cd27697",
+    "url": "/static/js/main.631980b0.chunk.js"
   },
   {
-    "revision": "7eae961334fb4fd30f04",
-    "url": "/static/js/runtime-main.903722d8.js"
+    "revision": "b0b2e61334a37adc9464",
+    "url": "/static/js/runtime-main.64c09fd2.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -96,6 +96,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contactMailDark.51cf7192.svg"
   },
   {
+    "revision": "ff0942a1e6d6a801557f3929b07217cc",
+    "url": "/static/media/earth_health.ff0942a1.png"
+  },
+  {
     "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
     "url": "/static/media/facebookLogo.8ddf76a1.png"
   },
@@ -130,5 +134,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13780cdd0144cacdef25486e2c2503f8",
     "url": "/static/media/talksCardBack.13780cdd.svg"
+  },
+  {
+    "revision": "2150a6b9b4051a15f1906cc5121febc0",
+    "url": "/static/media/workout_dashboard.2150a6b9.png"
   }
 ]);
