@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.be6ed916.css",
-    "main.js": "/static/js/main.8d099956.js",
+    "main.js": "/static/js/main.5766c9d0.js",
     "static/media/global-asset-management.png": "/static/media/global-asset-management.0e661d6ffa625fda8c2a.png",
     "static/media/earth_health.png": "/static/media/earth_health.b23b2ea70cc5dd56215c.png",
     "static/media/workout_dashboard.png": "/static/media/workout_dashboard.7175cc66cb5c5056a8be.png",
@@ -9,10 +9,10 @@
     "static/media/awesome-chocolate-sale-analysis.png": "/static/media/awesome-chocolate-sale-analysis.6d686f5abb70ba40469c.png",
     "index.html": "/index.html",
     "main.be6ed916.css.map": "/static/css/main.be6ed916.css.map",
-    "main.8d099956.js.map": "/static/js/main.8d099956.js.map"
+    "main.5766c9d0.js.map": "/static/js/main.5766c9d0.js.map"
   },
   "entrypoints": [
     "static/css/main.be6ed916.css",
-    "static/js/main.8d099956.js"
+    "static/js/main.5766c9d0.js"
   ]
 }
